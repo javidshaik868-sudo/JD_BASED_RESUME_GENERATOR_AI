@@ -1,0 +1,34 @@
+streamlit
+
+# File parsing
+pdfplumber
+python-docx
+
+# NLP & ML
+scikit-learn
+numpy
+pandas
+
+# Optional NLP enhancements
+nltk
+spacy
+
+# Utilities
+tqdm
+
+# Optional (AI-based rewriting)
+openai
+
+python-docx
+reportlab
+
+PyPDF2
+pdf2docx
+docx2pdf 
+python-docx
+pdfkit
+dotenv
+torch 
+torchvision 
+torchaudio
+transformers 
